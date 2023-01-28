@@ -1,6 +1,6 @@
-# Monetary incentives and social media content: A exploratory comparison of Reddit and Steemit
+# How do monetary incentives affect healthcare social media content? A study based on topic modeling and sentiment analysis
 
-This repository contains the datasets and source code of "Monetary incentives and social media content: A exploratory comparison of Reddit and Steemit" paper.
+This repository contains the datasets and source code of "How do monetary incentives affect healthcare social media content? A study based on topic modeling and sentiment analysis" paper.
 
 Four dimensions of two social media platforms (Steemit and Reddit) were investigated to compare incentive-base versus non-incentive-base platforms.
 
